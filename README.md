@@ -258,3 +258,6 @@ This project is built on the following open-source projects:
 - [Isaac Lab](https://github.com/isaac-sim/IsaacLab)
 - [Isaac Sim](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
 - [rsl_rl](https://github.com/leggedrobotics/rsl_rl)
+
+## Contact
+We are hiring!!! Full-time researchers, engineers, interns and PhD students are all open for recruitment. If you are interested in working with us on whole-body mobile manipulation for humanoid robots, please contact hitsunzhenguo@gmail.com.
